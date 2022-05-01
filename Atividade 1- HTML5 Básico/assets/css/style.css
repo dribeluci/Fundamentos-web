@@ -1,0 +1,115 @@
+/* Estilos da página index.html*/
+
+ body {
+            background-color: Gainsboro;
+        }
+  
+.total{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        text-align: center;
+            background-color: white;
+            width: 900px;
+            height: auto;
+            margin: 0 auto;
+}
+.titulo {
+    color: orange;
+    text-align: center;
+}
+
+
+.center {
+    
+    text-align: center;
+    color: grey;
+}
+
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+
+}
+
+.retangulo{
+    display: flex;
+}
+
+#menu li{
+    display: inline;
+    padding: 15px;
+   
+}
+
+#menu li a{
+    text-decoration: none;
+    color:orange;
+    font-size: 15px;
+}
+
+#menu li a:hover {
+    color: grey;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.img-brid{
+    border-radius: 30%;
+}
+.img-Gdr{
+    border-radius: 30%;
+}
+
+.top-serie{
+    text-align: center;
+    color: orange;
+    flex-flow: row wrap;
+}
+
+
+.grid{
+    text-align: center;
+    color: grey;
+    flex-flow:nowrap;
+}
+.brid{
+    width: 50%;
+}
+
+.riv{
+    width: 100%;
+    margin-bottom: 30px;
+}
+/* Estilos da página contato.html*/
+
+.totalContato{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+        background-color: white;
+        width: 900px;
+        height: auto;
+        margin: 0 auto;
+}
+
+
+
+#menuContato li{
+    display: inline;
+    padding: 15px;
+   
+}
+#menuContato li a{
+    text-decoration: none;
+    color:orange;
+    font-size: 15px;
+}
+
+#menuContato li a:hover {
+    color: grey;
+}
+
