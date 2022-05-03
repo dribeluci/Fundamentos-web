@@ -9,7 +9,7 @@
         padding-bottom: 20px;
         text-align: center;
             background-color: white;
-            width: 900px;
+            width: 700px;
             height: auto;
             margin: 0 auto;
 }
@@ -78,6 +78,7 @@
 }
 .brid{
     width: 50%;
+    
 }
 
 .riv{
@@ -91,7 +92,7 @@
     padding-bottom: 20px;
     text-align: center;
         background-color: white;
-        width: 900px;
+        width: 700px;
         height: auto;
         margin: 0 auto;
 }
@@ -113,3 +114,20 @@
     color: grey;
 }
 
+
+.configContato{
+    color: orange;
+}
+
+.retanguloContato{
+    display: flex;
+   align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+
+}
+
+.marg{
+    margin-right: 150px;
+}
